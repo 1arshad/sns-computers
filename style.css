@@ -79,11 +79,13 @@ header a:hover {
 }
 
 /* showcase w*/
+/*git TEST*/
 #showcase {
   min-height: 400px;
   background: url("computer211.jpg") no-repeat 0 -320px;
   background-size: cover;
   background-color: antiquewhite;
+
   text-align: center;
   color: white;
 }
