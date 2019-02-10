@@ -42,8 +42,8 @@ header a {
 header {
   background-color: #282726;
   color: white;
-  padding-top: 30px;
-  min-height: 60px;
+  padding-top: 20px;
+  min-height: 50px;
   border-bottom: #f22f08 4px solid;
 }
 
@@ -63,7 +63,7 @@ header li {
 
 nav {
   float: right;
-  margin-top: 10px;
+  margin-top: 5px;
   background-color: #212027;
 }
 
