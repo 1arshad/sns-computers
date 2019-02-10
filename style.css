@@ -83,6 +83,7 @@ header a:hover {
   min-height: 400px;
   background: url("computer211.jpg") no-repeat 0 -320px;
   background-size: cover;
+  background-color: antiquewhite;
   text-align: center;
   color: white;
 }
